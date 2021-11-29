@@ -7,6 +7,12 @@
 
 *Tested in MODX3 Beta2
 
+## Usage
+
+```
+[[PixlMan? &location=`Meta`]]
+```
+
 ## Download the latest package and upload via Manager install
 
 ![Screenshot](screenshot.png)
