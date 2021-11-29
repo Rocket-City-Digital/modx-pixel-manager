@@ -8,3 +8,5 @@
 *Tested in MODX3 Beta2
 
 ## Download the latest package and upload via Manager install
+
+![Screenshot](screenshot.png)
